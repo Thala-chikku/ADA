@@ -98,3 +98,4 @@ int main()
     scanf("%d", &N);
     solveNQ(N);
     return 0;
+}
